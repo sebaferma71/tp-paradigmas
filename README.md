@@ -1,4 +1,4 @@
-# Trabajo practico de Paradigmas de Programacion
+# Trabajo practico de Paradigmas de Programacion con SmallTalk
 El estudio cinematográfico CINEMA tiene registrada la información que maneja. Para resolver la situación que plantearemos necesitamos contar con los datos del personal que desempeña tareas varias en forma permanente (información que ya esta cargada) y la de las películas que son producidas en el mismo.
 Del personal permanente se conocen los siguientes datos:
 -	Número de documento
